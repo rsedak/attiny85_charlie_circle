@@ -52,7 +52,7 @@ Firmware
 --------
 Ovo učilo može biti progrmairano pomoću [Arduino IDE](https://www.arduino.cc/).
 [ATTinyCore by Spence Konde](https://github.com/SpenceKonde/ATTinyCore) je korišten za programiranje ATtiny85 u Arduino IDE.
-Primjer za Arduino IDS se nalazi u mapi [examples](examples/).
+Primjer za Arduino IDE se nalazi u mapi [examples](examples/).
 
 
 Licenca
